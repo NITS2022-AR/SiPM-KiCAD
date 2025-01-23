@@ -1,0 +1,212 @@
+Circuit: * C:\Users\barc\Documents\nitstrainee\ltspice\Final peak detector circuit7.asc
+
+Questionable use of curly braces in "b§e_abmgate yint 0 v={if(v(a)>{{vthresh}},{{vdd}},{{vss}})}"
+    Error: undefined symbol in: "if([v](a)>((vthresh)),((vdd)),((vss)))"
+Warning: Multiple definitions of model "bat54" Type: Diode
+WARNING: Less than two connections to node U8:U1:UA:TEST.  This node is used by E:U8:U1:UA:TEST.
+WARNING: Less than two connections to node U8:U1:UA:VTH_DIFF.  This node is used by E:U8:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U8:U1:UB:TEST.  This node is used by E:U8:U1:UB:TEST.
+WARNING: Less than two connections to node U8:U1:UB:VTH_DIFF.  This node is used by E:U8:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U9:U1:UA:TEST.  This node is used by E:U9:U1:UA:TEST.
+WARNING: Less than two connections to node U9:U1:UA:VTH_DIFF.  This node is used by E:U9:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U9:U1:UB:TEST.  This node is used by E:U9:U1:UB:TEST.
+WARNING: Less than two connections to node U9:U1:UB:VTH_DIFF.  This node is used by E:U9:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U11:U1:UA:TEST.  This node is used by E:U11:U1:UA:TEST.
+WARNING: Less than two connections to node U11:U1:UA:VTH_DIFF.  This node is used by E:U11:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U11:U1:UB:TEST.  This node is used by E:U11:U1:UB:TEST.
+WARNING: Less than two connections to node U11:U1:UB:VTH_DIFF.  This node is used by E:U11:U1:UB:VTHDIFF.
+Instance "m:u6:46": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u6:45": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u6:47": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u6:44": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u6:43": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u6:42": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u6:41": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u6:22": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u6:21": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u6:17": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u6:16": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u6:23": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u6:19": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u6:18": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u6:5": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u6:4": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u6:3": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u6:2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u6:8": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u6:1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:46": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:45": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:47": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:44": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:43": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:42": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:41": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:22": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:21": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:17": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:16": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:23": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:19": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:18": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:5": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:4": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:3": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:8": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u5:1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u4:2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u4:1": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+Gmin = 2.07126
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 2.15923
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+Gmin = 2.16235
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 21.2595%
+Source Step = 21.733%
+Source Step = 22.2064%
+Source Step = 22.526%
+vernier = 0.000976563
+Source Step = 22.5438%
+Source Step = 22.5734%
+Source Step = 22.603%
+Source Step = 22.6326%
+Source Step = 22.6622%
+vernier = 0.00146484
+Source Step = 22.6992%
+Source Step = 22.7435%
+Source Step = 22.7879%
+Source Step = 22.8323%
+Source Step = 22.8767%
+vernier = 0.00219727
+Source Step = 22.93%
+Source Step = 22.9966%
+Source Step = 23.0632%
+Source Step = 23.1297%
+Source Step = 23.1963%
+vernier = 0.0032959
+Source Step = 23.2729%
+Source Step = 23.3728%
+Source Step = 23.4726%
+Source Step = 23.5725%
+Source Step = 23.6724%
+vernier = 0.00494385
+Source Step = 23.7823%
+Source Step = 23.9321%
+Source Step = 24.0819%
+Source Step = 24.2317%
+Source Step = 24.3815%
+vernier = 0.00741577
+Source Step = 24.5388%
+Source Step = 24.7635%
+Source Step = 24.9883%
+Source Step = 25.213%
+Source Step = 25.4377%
+Source Step = 25.6624%
+vernier = 0.0111237
+Source Step = 25.9995%
+Source Step = 26.3366%
+Source Step = 26.6737%
+Source Step = 27.0107%
+Source Step = 27.3478%
+vernier = 0.0166855
+Source Step = 27.8366%
+Source Step = 28.3422%
+Source Step = 28.8478%
+Source Step = 29.3534%
+Source Step = 29.8591%
+vernier = 0.0250282
+Source Step = 30.5669%
+Source Step = 31.3254%
+Source Step = 32.0838%
+Source Step = 32.8422%
+Source Step = 33.6007%
+vernier = 0.0375423
+Source Step = 34.6245%
+Source Step = 35.7622%
+Source Step = 36.8998%
+Source Step = 38.0375%
+Source Step = 39.1751%
+vernier = 0.0563135
+Source Step = 40.6541%
+Source Step = 42.3605%
+Source Step = 44.067%
+Source Step = 45.7735%
+Source Step = 47.48%
+vernier = 0.0844703
+Source Step = 49.613%
+Source Step = 52.1727%
+Source Step = 54.7325%
+Source Step = 57.2922%
+Source Step = 59.8519%
+vernier = 0.126705
+Source Step = 62.9235%
+Source Step = 66.7631%
+Source Step = 70.6026%
+Source Step = 74.4422%
+Source Step = 78.2817%
+vernier = 0.190058
+Source Step = 82.6972%
+Source Step = 88.4566%
+Source Step = 94.2159%
+Source Step = 99.9752%
+Source stepping succeeded in finding the operating point.
+
+Ignoring empty pin current: Ix(u3:4)
+Ignoring empty pin current: Ix(u4:en)
+Ignoring empty pin current: Ix(u3:4)
+Ignoring empty pin current: Ix(u4:en)
+Heightened Def Con from 6.53381e-010 to 9.65338e-009
+Heightened Def Con from 1.0036e-007 to 1.00362e-007
+Heightened Def Con from 1.00362e-007 to 1.03362e-007
+Heightened Def Con from 2.09428e-006 to 2.09429e-006
+Heightened Def Con from 4.08855e-006 to 4.08855e-006
+Heightened Def Con from 6.08264e-006 to 6.08265e-006
+Heightened Def Con from 8.07583e-006 to 8.07597e-006
+Heightened Def Con from 1.00692e-005 to 1.00693e-005
+Heightened Def Con from 1.20626e-005 to 1.20627e-005
+Heightened Def Con from 1.40567e-005 to 1.40568e-005
+Heightened Def Con from 1.60502e-005 to 1.60503e-005
+Heightened Def Con from 1.80434e-005 to 1.80436e-005
+Heightened Def Con from 2.00368e-005 to 2.00368e-005
+Heightened Def Con from 2.20308e-005 to 2.20308e-005
+Heightened Def Con from 2.20701e-005 to 2.20714e-005
+Heightened Def Con from 2.40242e-005 to 2.40242e-005
+Heightened Def Con from 2.60185e-005 to 2.60185e-005
+Heightened Def Con from 2.80123e-005 to 2.80123e-005
+
+Date: Fri Jan 17 10:43:55 2025
+Total elapsed time: 14.309 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 88834
+traniter = 83756
+tranpoints = 34471
+accept = 31777
+rejected = 2712
+matrix size = 1109
+fillins = 2573
+solver = Normal
+Thread vector: 93.1/31.3[8] 13.5/7.3[8] 30.8/12.3[8] 3.1/2.3[5]  2592/500
+Matrix Compiler1: 151.66 KB object code size  42.5/19.4/[7.3]
+Matrix Compiler2: 122.68 KB object code size  18.2/18.0/[7.1]
+
